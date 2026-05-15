@@ -1,6 +1,6 @@
 # 🎗️ Breast Cancer Prediction - ML Preprocessing Pipeline
 
-## 🏢 VAUTECH IT SOLUTIONS - TASK 3
+##  VAUTECH IT SOLUTIONS - TASK 3
 
 | | |
 |---|---|
@@ -11,9 +11,6 @@
 | **Mentor** | Vishal Rajbhar |
 
 ---
-
-## 📂 Dataset
-...
 
 ## 📂 Dataset
 
