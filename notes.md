@@ -1,4 +1,4 @@
-# 📓 Detailed Notes — Breast Cancer ML Project
+#  Detailed Notes — Breast Cancer ML Project
 
 ## 🏢 VAUTECH IT SOLUTIONS — TASK 3
 
