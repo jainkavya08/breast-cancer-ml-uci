@@ -89,10 +89,13 @@
 ## 📁 Files
 
 | File | Description |
-|------|-------------|
-| `Breast_Cancer_ML_Internship.ipynb` | Main notebook with complete pipeline |
+|---|---|
+| `Breast_Cancer_ML_Interrnship.ipynb` | Main notebook with complete pipeline |
 | `breast-cancer.data` | Raw dataset file |
 | `breast-cancer.names` | Dataset documentation |
+| `notes.md` | Detailed step-by-step explanation of the code |
+| `requirements.txt` | Python libraries needed to run the project |
+| `.gitignore` | Files ignored by Git |
 
 ---
 
