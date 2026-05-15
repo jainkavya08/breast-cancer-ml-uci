@@ -1,9 +1,12 @@
 # 🎗️ Breast Cancer Prediction - ML Preprocessing Pipeline
 
-## 📌 Task 03 - ML Internship
+### VAUTECH IT SOLUTIONS- TASK 2
 
-A complete Machine Learning preprocessing pipeline and classification model built on the UCI Breast Cancer Dataset.
-
+**Intern:** Kavya Jain <br>
+**Intern Id:** VT26ML005
+**Domain:** Machine Learning <br>
+**Company:** VAUTECH IT SOLUTIONS <br>
+**Mentor:** Vishal Rajbhar
 ---
 
 ## 📂 Dataset
