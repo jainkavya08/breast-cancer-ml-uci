@@ -123,4 +123,4 @@ Zwitter, M. & Soklic, M. (1988). Breast Cancer [Dataset]. UCI Machine Learning R
 
 ## 👨‍💻 Author
 
-Made with ❤️ as part of ML Internship - Task 03
+Kavya jain
